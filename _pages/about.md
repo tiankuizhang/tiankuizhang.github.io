@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Tiankui Zhang.  This is a test.
+Tiankui Zhang is currently a PhD candidate in computational biophysics at the [physics department, university of Arizona](https://w3.physics.arizona.edu/).
 
 
 
