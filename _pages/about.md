@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
+Hello! My name is Tiankui Zhang. 
 
 A data-driven personal website
 ======
