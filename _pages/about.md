@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Tiankui Zhang is currently a PhD candidate in computational biophysics at the [physics department, university of Arizona](https://w3.physics.arizona.edu/).
+Tiankui Zhang is currently a PhD candidate in computational biophysics in the [department of physics](https://w3.physics.arizona.edu/) at [University of Arizona](https://www.arizona.edu/).
 
 
 

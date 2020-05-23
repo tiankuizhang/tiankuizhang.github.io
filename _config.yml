@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tiankui Zhang"
 title_separator          : "-"
 name                     : &name "Tiankui Zhang"
-description              : &description "Computational Biophysics PhD candidate at University of Arizona, expected to graduate in July 2020"
+description              : &description ""
 url                      : https://tiankuizhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tiankuizhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tiankui Zhang"
   avatar           : "profile.png"
-  bio              : "Computational Biophysics PhD candidate at University of Arizona, expected to graduate in July 2020"
+  bio              : "Ph.D. candidate, department of physics, University of Arizona "
   location         : "Tucson AZ"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
