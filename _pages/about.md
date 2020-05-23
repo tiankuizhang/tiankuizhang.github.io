@@ -10,8 +10,8 @@ redirect_from:
 
 - I am currently a PhD candidate in the [department of physics](https://w3.physics.arizona.edu/) at [University of Arizona](https://www.arizona.edu/), advised by Prof. [Charles Wolgemuth](http://www.physics.arizona.edu/~wolg/).
 - My interests range cross many fields of knowledge, including but not limited to physics, mathematics, philosophy, psychology, biology, history, economics, arts, social science etc. All of those fileds help us understand ourselves and this world. Life, sadly, is too short for one to dip into any of them.
-- My research interest is to combine mathematical and computational techniques with physical principles to understand the most mysterious phenomenon in this universe --- life. Right now, my research focus on understanding shape dynamics of vesicles. 
-- I am interested in applying computational and mathematical techniques to solve problems at the interface of physics and biology from molecular level to celluar levels. 
+- My research interest is to combine mathematical and computational techniques with physical principles to understand the most mysterious phenomenon in this universe --- life. Right now, my research focus on understanding shape dynamics of vesicles. In particular, I am deriving partial differential equations (PDEs) govern shape dynamics of biomembranes and developing massively parallel three dimensional numerical schemes to solve those PDEs. I am also working on designing novel numerical algorithms for applications in computational physics and image processing in general.
+- I received my Bachelor's Degree in physics from [Wuhan University](https://www.whu.edu.cn/), at the foothils of [Luojia mountain]([https://zh.wikipedia.org/wiki/%E7%8F%9E%E7%8F%88%E5%B1%B1](https://zh.wikipedia.org/wiki/珞珈山)). 
 
 
 
