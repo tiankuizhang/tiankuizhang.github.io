@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Tiankui Zhang. 
+Hello! My name is Tiankui Zhang.  This is a test.
 
 
 
