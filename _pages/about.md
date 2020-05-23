@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Tiankui Zhang is currently a PhD candidate in the [department of physics](https://w3.physics.arizona.edu/) at [University of Arizona](https://www.arizona.edu/).
+- Tiankui Zhang is currently a PhD candidate in the [department of physics](https://w3.physics.arizona.edu/) at [University of Arizona](https://www.arizona.edu/), advised by Prof. [Charles Wolgemuth](http://www.physics.arizona.edu/~wolg/).
 - 
 
 
