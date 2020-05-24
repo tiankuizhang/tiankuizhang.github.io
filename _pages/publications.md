@@ -12,3 +12,7 @@ author_profile: true
 <br><b>[Sixth-Order Accurate Schemes for Reinitialization and Extrapolation in the Level Set Framework](https://tiankuizhang.github.io/publications/zhang2020sixth)</b><br>
 <b>Tiankui Zhang</b> and Charles W Wolgemuth. <i>Journal of Scientific Computing</i>, 83(2), 2020.
 
+# Manuscripts
+
+<br><b> Massively Parallel Simulation of Shape Dynamics of Single Phase and Biphasic Vesicles Coupled with Protein Kinetics</b><br>
+<b>Tiankui Zhang</b> and Charles W Wolgemuth. 
