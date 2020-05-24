@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/zhang2020sixth
 date: 2020-03-30
 venue: 'Journal of Scientific Computing'
-paperurl: 'http://tiankuizhang.github.io/files/zhang2020sixth.pdf'
 citation: ' <b>Tiankui Zhang</b> and Charles W Wolgemuth. Sixth-order accurate schemes for reinitialization and extrapolation in the level set framework.<i>Journal of Scientific Computing</i>, 83(2), 2020.'
 ---
 [[pdf]](http://tiankuizhang.github.io/files/zhang2020sixth.pdf)
