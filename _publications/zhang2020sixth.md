@@ -1,5 +1,5 @@
 ---
-title: "Sixth-order accurate schemes for reinitialization and extrapolation in the level set framework"
+title: "Sixth-order Accurate Schemes for Reinitialization and Extrapolation in the Level Set Framework"
 collection: publications
 permalink: /publication/zhang2020sixth
 date: 2020-03-30
