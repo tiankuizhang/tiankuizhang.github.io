@@ -4,7 +4,6 @@ collection: publications
 permalink: /publications/zhang2020sixth
 venue: "Journal of Scientific Computing"
 date: 2020-03-30
-citation: ' <b>Tiankui Zhang</b> and Charles W Wolgemuth. <i>Journal of Scientific Computing</i>, 83(2), 2020.'
 ---
 [[pdf]](http://tiankuizhang.github.io/files/zhang2020sixth.pdf)
 
