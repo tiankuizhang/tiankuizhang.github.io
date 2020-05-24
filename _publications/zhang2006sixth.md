@@ -3,12 +3,14 @@ title: "Sixth-order accurate schemes for reinitialization and extrapolation in t
 collection: publications
 permalink: /publication/zhang2006sixth
 date: 2020-03-30
-venue: 'Journal of ScientificComputing'
-paperurl: 'http://academicpages.github.io/files/zhang2006sixth.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Journal of Scientific Computing'
+paperurl: 'http://tiankuizhang.github.io/files/zhang2006sixth.pdf'
+citation: ' <b>Tiankui Zhang</b> and Charles W Wolgemuth. Sixth-order accurate schemes for reinitialization and extrapolation in the level set framework.<i>Journal of Scientific Computing</i>, 83(2), 2020.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[[pdf]](http://tiankuizhang.github.io/files/zhang2006sixth.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+## Abstract
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+The level set method is a common approach for handling moving boundary problems, which allows a moving, irregular surface to be described implicitly on a Cartesian grid. This approach often requires reinitialization of the level set function and extrapolation of fields defined only on the interface. Because many applications in physics and engineering involve calculation of second derivatives of the interface curvature and fourth order derivatives of surface fields, accurate simulations of these problems require high-order methods for
+  reinitialization and extrapolation. Here we build off WENO schemes for Hamilton-Jacobi equations to develop novel sixth-order accurate methods for reinitialization and extrapolation. We present numerical results in three dimensional spaces demonstrating fourth-order accuracy of the interfacial curvature and sixth-order accuracy for the extrapolated surface fields. We then show that the extrapolation scheme can be integrated into the closest point method for surface PDEs and present an example of computing geodesic
+  curves on surfaces.
