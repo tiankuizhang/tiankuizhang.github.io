@@ -1,8 +1,8 @@
 ---
-title: "Sixth-order accurate schemes for reinitialization and extrapolation in the level set framework."
+title: "Sixth-order accurate schemes for reinitialization and extrapolation in the level set framework"
 collection: publications
 permalink: /publication/zhang2006sixth
-date: 2009-10-01
+date: 2020-03-30
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/zhang2006sixth.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
