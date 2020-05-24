@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV/bio"
+    url: /files/00CV/TiankuiZhangCV.pdf
+
   - title: "Publications"
     url: /publications/
 
@@ -14,9 +17,6 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-  - title: "CV"
-    url: /files/00CV/TiankuiZhangCV.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
