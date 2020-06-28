@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.2.20)  27 JUN 2020 19:29
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.2.20)  28 JUN 2020 11:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -718,10 +718,10 @@ Package rerunfilecheck Info: File `TiankuiZhangCV_CN.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 15277 strings out of 479819
- 300916 string characters out of 5897101
+ 15279 strings out of 479819
+ 300995 string characters out of 5897101
  621162 words of memory out of 5000000
- 32182 multiletter control sequences out of 15000+600000
+ 32184 multiletter control sequences out of 15000+600000
  533002 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,4n,74p,404b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
