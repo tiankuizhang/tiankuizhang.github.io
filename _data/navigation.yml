@@ -3,6 +3,9 @@ main:
   - title: "CV/bio"
     url: /files/00CV/TiankuiZhangCV.pdf
 
+  - title: "简历"
+    url: /files/00CV_CN/TiankuiZhangCV_CN.pdf
+
   - title: "Publications"
     url: /publications/
 

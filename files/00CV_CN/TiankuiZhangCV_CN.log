@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.2.20)  27 JUN 2020 19:12
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.2.20)  27 JUN 2020 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**张天奎CV.tex
-(./张天奎CV.tex
+**TiankuiZhangCV_CN.tex
+(./TiankuiZhangCV_CN.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (./resume.cls
 Document Class: resume 2015/05/25 An elegant Résumé class
@@ -494,8 +494,9 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-) (./张天奎CV.aux)
-\openout1 = `张天奎CV.aux'.
+)
+No file TiankuiZhangCV_CN.aux.
+\openout1 = `TiankuiZhangCV_CN.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -508,7 +509,6 @@ LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
 3.
-
 (c:/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -604,11 +604,12 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
-
-(./张天奎CV.out) (./张天奎CV.out)
 \@outlinefile=\write3
-\openout3 = `张天奎CV.out'.
+\openout3 = `TiankuiZhangCV_CN.out'.
 
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -710,27 +711,27 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
- (./张天奎CV.aux)
+ (./TiankuiZhangCV_CN.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
 
 
-Package rerunfilecheck Warning: File `张天奎CV.out' has changed.
+Package rerunfilecheck Warning: File `TiankuiZhangCV_CN.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `张天奎CV.out':
-(rerunfilecheck)             Before: B6E7A57576F690F67CC98D8951C36735;598
+Package rerunfilecheck Info: Checksums for `TiankuiZhangCV_CN.out':
+(rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  8E24DB623B5A7D5224AF627E6457DBD1;600.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 15277 strings out of 479819
- 300736 string characters out of 5897101
- 621102 words of memory out of 5000000
- 32182 multiletter control sequences out of 15000+600000
+ 15268 strings out of 479819
+ 300760 string characters out of 5897101
+ 620818 words of memory out of 5000000
+ 32179 multiletter control sequences out of 15000+600000
  533002 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 59i,4n,74p,392b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,4n,74p,404b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 张天奎CV.pdf (1 page).
+Output written on TiankuiZhangCV_CN.pdf (1 page).
