@@ -16,3 +16,7 @@ author_profile: true
 
 <br><b> Massively Parallel Simulation of Shape Dynamics of Single Phase and Biphasic Vesicles Coupled with Protein Kinetics</b><br>
 <b>Tiankui Zhang</b> and Charles W Wolgemuth. 
+
+# PhD Thesis
+
+<br><b>[A Level Set Approach to Shape Dynamics of Veislces](https://tiankuizhang.github.io/publications/00TiankuiZhangThesis2020)</b><br>
