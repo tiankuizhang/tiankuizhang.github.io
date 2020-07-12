@@ -13,7 +13,4 @@ In Chapter 1, a breify introduction to membrane structure and membrane proteins 
 ## 3D simulations
 
 ### relaxation of an oblate to a discocyte
-<img src="../files/00Thesis/movies/Oblate3D.gif" 
-	 alt="relaxation of an oblate to a discocyte" 
-	 width="250" height="250"
-	 loop=infinite>
+<img src="../files/00Thesis/movies/Oblate3D.gif" alt="relaxation of an oblate to a discocyte" width="250" height="250" loop=infinite>
