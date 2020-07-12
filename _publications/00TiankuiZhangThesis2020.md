@@ -12,5 +12,5 @@ In Chapter 1, a breify introduction to membrane structure and membrane proteins 
 
 ## Simulationss
 ![oblate to a discocyte](
-https://github.com/tiankuizhang/tiankuizhang.github.io/blob/master/files/00Thesis/movies/Oblate3D.gif
+http://github.com/tiankuizhang/tiankuizhang.github.io/files/00Thesis/movies/Oblate3D.gif
 		)
