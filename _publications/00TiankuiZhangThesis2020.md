@@ -59,5 +59,6 @@ We developed a massively parallel three dimensional scheme for the simulation of
 
 ### pinching of single phase and biphasic vesicles in the presence of protein molecules
 <img src="../files/00Thesis/movies/protein_single_phase.gif" alt="pinching of single phase vesicles due to proteins" width="250" height="250">
+
 <img src="../files/00Thesis/movies/proteinBidomainNeck.gif" alt="pinching of biphasic phase vesicles due to proteins" width="250" height="250"><img src="../files/00Thesis/movies/proteinBidomainNeck_2D.gif" alt="pinching of biphasic phase vesicles due to proteins" width="250" height="250">
 <img src="../files/00Thesis/movies/proteinBidomainBoundary.gif" alt="pinching of biphasic phase vesicles due to proteins" width="250" height="250"><img src="../files/00Thesis/movies/proteinBidomainBoundary_2D.gif" alt="pinching of biphasic phase vesicles due to proteins" width="250" height="250">
