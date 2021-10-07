@@ -15,15 +15,38 @@ Numerical simulations also dates back to Helfrich's first paper. There are two a
 
 We developed a massively parallel three dimensional scheme for the simulation of single phase vesicles, biphasic vesicles. By utilizing the power of GPU and using an implicit scheme, we can simulate vesicle dynamics on a longer time scale and observe some new results. In particular, we investigated the effects of reduced volume, spontaneous curvature, osmotic pressure, constraints on the reduced area difference for the dynamics of single phase vesicles. Pinching of vesicles into multiple smaller ones are handled without a problem. Some experimental observations are successfully reproduced. For biphasic vesicles, we explored effects of line tension, reduced volume, spontaneous curvature for pinching off of bidomain vesicles. We also developed a scheme to enforce local area incompressibility and regularization of the auxiliary level set function representing phase boundaries. Phase coarsening with shape dynamics of vesicles, internal and outside budding of multidomain vesicles are simulated. As last, we developed a simple model for protein membrane interaction. The elastic force density between protein molecules and biomembranes is computed. We showed examples of protein density dynamics on a static curved surface when different models for bending moduli and spontaneous curvature area used. Examples of protein kinetics on dynamic single phase and biphasic vesicles are shown. We find that pinching of biphasic vesicles under effects of curvature sensing and curvature inducing molecules can happen near or away from the phase boundary by varying parameters of the model. We hope our result will help understand shaped dynamics of vesicles and how various physical conditions can influence this process.
 
-## 3D simulations
+## Computation of Geodesics on the Stanford Bunny
 
-### relaxation of an oblate to a discocyte
-<img src="../files/00Thesis/movies/Oblate3D.gif" alt="relaxation of an oblate to a discocyte" width="250" height="250">
+<img src="../files/00Thesis/movies/bunny.gif" alt="computation of geodesics on the Standford bunny" width="500" height="500">
 
-### relaxation of an prolate to a gourd
-<img src="../files/00Thesis/movies/Prolate3D.gif" alt="relaxation of an prolate to a gourd" width="250" height="250">
+## 3D simulation of  Vesicles
 
+### relaxation of an oblate and a prolate
+<img src="../files/00Thesis/movies/Oblate3D.gif" alt="relaxation of an oblate to a discocyte" width="250" height="250"><img src="../files/00Thesis/movies/Prolate3D.gif" alt="relaxation of an prolate to a gourd" width="250" height="250">
 
+### pinching of an oblate and a prolate under the effect of spontaneous curvature
+<img src="../files/00Thesis/movies/OblatePinch.gif" alt="pinching of an oblate under the effect of spontaneous curvature" width="250" height="250"><img src="../files/00Thesis/movies/ProlatePinch.gif" alt="pinching of an prolate under the effect of spontaneous curvature" width="250" height="250">
 
-### pinching of an oblate under the effect of spontaneous curvature
-<img src="../files/00Thesis/movies/OblatePinch.gif" alt="pinching of an oblate under the effect of spontaneous curvature" width="250" height="250">
+### deformation of vesicles under effects of osmotic pressure
+<img src="../files/00Thesis/movies/tube.gif" alt="relaxation of a prolate to a tube" width="250" height="250"><img src="../files/00Thesis/movies/torus.gif" alt="pinching of an oblate to a torus" width="250" height="250">
+
+<img src="../files/00Thesis/movies/starfish3.gif" alt="deformation of an oblate into starfishes" width="250" height="250"><img src="../files/00Thesis/movies/starfish4.gif" alt="deformation of an oblate into starfishes" width="250" height="250">
+
+### deformation of vesicles under effects of constrained reduced area difference
+<img src="../files/00Thesis/movies/stomatocyte.gif" alt="deformation of an oblate into a stomatocyte" width="250" height="250"><img src="../files/00Thesis/movies/Pear.gif" alt="deformation of an prolate into a pear" width="250" height="250"><img src="../files/00Thesis/movies/necklace.gif" alt="deformation of an prolate into a necklace" width="250" height="250">
+
+### bidomain biphasic vesicles with different ratio of area for different phases
+<img src="../files/00Thesis/movies/bidomain76.gif" alt="ratio 76" width="250" height="250"><img src="../files/00Thesis/movies/bidomain76_2D.gif" alt="ratio 76" width="250" height="250">
+
+<img src="../files/00Thesis/movies/bidomain84.gif" alt="ratio 84" width="250" height="250"><img src="../files/00Thesis/movies/bidomain84_2D.gif" alt="ratio 84" width="250" height="250">
+
+<img src="../files/00Thesis/movies/bidomain98.gif" alt="ratio 98" width="250" height="250"><img src="../files/00Thesis/movies/bidomain98_2D.gif" alt="ratio 98" width="250" height="250">
+
+### domain coarsening under the effect of line tension
+<img src="../files/00Thesis/movies/coarsen.gif" alt="domain coarsening" width="250" height="250">
+
+### incompressible vs compressible vesicles
+<img src="../files/00Thesis/movies/Compressible.gif" alt="compressible" width="250" height="250"><img src="../files/00Thesis/movies/InCompressible.gif" alt="incompressible" width="250" height="250">
+
+### external and internal budding of vesicles
+<img src="../files/00Thesis/movies/externalBudding14.gif" alt="external budding" width="250" height="250"><img src="../files/00Thesis/movies/internalBudding14.gif" alt="internal budding" width="250" height="250">
