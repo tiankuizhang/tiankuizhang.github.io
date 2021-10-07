@@ -19,3 +19,6 @@ We developed a massively parallel three dimensional scheme for the simulation of
 
 ### relaxation of an oblate to a discocyte
 <img src="../files/00Thesis/movies/Oblate3D.gif" alt="relaxation of an oblate to a discocyte" width="250" height="250">
+
+### relaxation of an prolate to a gourd
+<img src="../files/00Thesis/movies/Prolate3D.gif" alt="relaxation of an prolate to a gourd" width="250" height="250">
