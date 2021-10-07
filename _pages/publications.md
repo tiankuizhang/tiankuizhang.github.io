@@ -14,8 +14,8 @@ author_profile: true
 
 # Manuscripts
 
-<br><b> Massively Parallel Simulation of Shape Dynamics of Single Phase and Biphasic Vesicles Coupled with Protein Kinetics</b><br>
-<b>Tiankui Zhang</b> and Charles W Wolgemuth. 
+<br><b>  A general computational framework for the dynamics of single‑ and multi‑phase vesicles and mem‑ branes(https://tiankuizhang.github.io/publications/zhang2021general)</b><br>
+<b>Tiankui Zhang</b> and Charles W Wolgemuth. (submitted to Journal of Computational Physics, under review)
 
 # PhD Thesis
 
