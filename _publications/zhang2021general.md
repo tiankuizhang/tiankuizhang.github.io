@@ -20,12 +20,11 @@ The dynamics of thin, membrane-like structures are unbiquitous in nature. They p
 ### pinching of an oblate and a prolate under the effect of spontaneous curvature
 <img src="../files/00Thesis/movies/OblatePinch.gif" alt="pinching of an oblate under the effect of spontaneous curvature" width="250" height="250"><img src="../files/00Thesis/movies/ProlatePinch.gif" alt="pinching of an prolate under the effect of spontaneous curvature" width="250" height="250">
 
-### deformation of vesicles under effects of osmotic pressure
+### deformation of vesicles under effects of osmotic pressure and constrained reduced area difference
 <img src="../files/00Thesis/movies/tube.gif" alt="relaxation of a prolate to a tube" width="250" height="250"><img src="../files/00Thesis/movies/torus.gif" alt="pinching of an oblate to a torus" width="250" height="250">
 
-<img src="../files/00Thesis/movies/starfish3.gif" alt="deformation of an oblate into starfishes" width="250" height="250"><img src="../files/00Thesis/movies/starfish4.gif" alt="deformation of an oblate into starfishes" width="250" height="250">
+<img src="../files/00Thesis/movies/Starfish2.gif" alt="deformation of an oblate into starfishes" width="250" height="250"><img src="../files/00Thesis/movies/starfish3.gif" alt="deformation of an oblate into starfishes" width="250" height="250"><img src="../files/00Thesis/movies/starfish4.gif" alt="deformation of an oblate into starfishes" width="250" height="250">
 
-### deformation of vesicles under effects of constrained reduced area difference
 <img src="../files/00Thesis/movies/stomatocyte.gif" alt="deformation of an oblate into a stomatocyte" width="250" height="250"><img src="../files/00Thesis/movies/Pear.gif" alt="deformation of an prolate into a pear" width="250" height="250"><img src="../files/00Thesis/movies/necklace.gif" alt="deformation of an prolate into a necklace" width="250" height="250">
 
 ## 3D simulation of  BiPhasic Vesicles
