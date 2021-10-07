@@ -19,7 +19,7 @@ We developed a massively parallel three dimensional scheme for the simulation of
 
 <img src="../files/00Thesis/movies/bunny.gif" alt="computation of geodesics on the Standford bunny" width="500" height="500">
 
-## 3D simulation of  Vesicles
+## 3D simulation of  Single Phase Vesicles
 
 ### relaxation of an oblate and a prolate
 <img src="../files/00Thesis/movies/Oblate3D.gif" alt="relaxation of an oblate to a discocyte" width="250" height="250"><img src="../files/00Thesis/movies/Prolate3D.gif" alt="relaxation of an prolate to a gourd" width="250" height="250">
@@ -35,7 +35,10 @@ We developed a massively parallel three dimensional scheme for the simulation of
 ### deformation of vesicles under effects of constrained reduced area difference
 <img src="../files/00Thesis/movies/stomatocyte.gif" alt="deformation of an oblate into a stomatocyte" width="250" height="250"><img src="../files/00Thesis/movies/Pear.gif" alt="deformation of an prolate into a pear" width="250" height="250"><img src="../files/00Thesis/movies/necklace.gif" alt="deformation of an prolate into a necklace" width="250" height="250">
 
+## 3D simulation of  BiPhasic Vesicles
+
 ### bidomain biphasic vesicles with different ratio of area for different phases
+
 <img src="../files/00Thesis/movies/bidomain76.gif" alt="ratio 76" width="250" height="250"><img src="../files/00Thesis/movies/bidomain76_2D.gif" alt="ratio 76" width="250" height="250">
 
 <img src="../files/00Thesis/movies/bidomain84.gif" alt="ratio 84" width="250" height="250"><img src="../files/00Thesis/movies/bidomain84_2D.gif" alt="ratio 84" width="250" height="250">
