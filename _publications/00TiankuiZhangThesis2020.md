@@ -52,3 +52,12 @@ We developed a massively parallel three dimensional scheme for the simulation of
 
 ### external and internal budding of vesicles
 <img src="../files/00Thesis/movies/externalBudding14.gif" alt="external budding" width="250" height="250"><img src="../files/00Thesis/movies/internalBudding14.gif" alt="internal budding" width="250" height="250">
+
+## Vesicle Shape Dynamics coupled with Protein Kinetics
+### redistribution of proteins due to dependence of spontaneous curvature and bending moduli on the presence of protein molecules
+<img src="../files/00Thesis/movies/protein_static_C.gif" alt="dependence of spontaneous curvature on protein" width="250" height="250"><img src="../files/00Thesis/movies/protein_static_K.gif" alt="dependence of bending moduli on protein" width="250" height="250">
+
+### pinching of single phase and biphasic vesicles in the presence of protein molecules
+<img src="../files/00Thesis/movies/protein_single_phase.gif" alt="pinching of single phase vesicles due to proteins" width="250" height="250">
+<img src="../files/00Thesis/movies/proteinBidomainNeck.gif" alt="pinching of biphasic phase vesicles due to proteins" width="250" height="250"><img src="../files/00Thesis/movies/proteinBidomainNeck_2D.gif" alt="pinching of biphasic phase vesicles due to proteins" width="250" height="250">
+<img src="../files/00Thesis/movies/proteinBidomainBoundary.gif" alt="pinching of biphasic phase vesicles due to proteins" width="250" height="250"><img src="../files/00Thesis/movies/proteinBidomainBoundary_2D.gif" alt="pinching of biphasic phase vesicles due to proteins" width="250" height="250">
