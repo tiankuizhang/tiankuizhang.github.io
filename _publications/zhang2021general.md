@@ -2,8 +2,8 @@
 title: "  A general computational framework for the dynamics of single‑ and multi‑phase vesicles and membranes"
 collection: publications
 permalink: /publications/zhang2021general
-venue: "Journal of Computational Physics"
-date: 2021-09-20
+venue: ""
+date: 
 ---
 <b>Tiankui Zhang</b> and Charles W Wolgemuth
 
