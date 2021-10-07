@@ -3,7 +3,7 @@ title: "  A general computational framework for the dynamics of single‑ and mu
 collection: publications
 permalink: /publications/zhang2021general
 venue: ""
-date: 
+date: 2021-12-20
 ---
 <b>Tiankui Zhang</b> and Charles W Wolgemuth
 
