@@ -14,7 +14,7 @@ author_profile: true
 
 # Manuscripts
 
-<br><b>  A general computational framework for the dynamics of single‑ and multi‑phase vesicles and mem‑ branes(https://tiankuizhang.github.io/publications/zhang2021general)</b><br>
+<br><b> [A general computational framework for the dynamics of single‑ and multi‑phase vesicles and mem‑ branes](https://tiankuizhang.github.io/publications/zhang2021general)</b><br>
 <b>Tiankui Zhang</b> and Charles W Wolgemuth. (submitted to Journal of Computational Physics, under review)
 
 # PhD Thesis
