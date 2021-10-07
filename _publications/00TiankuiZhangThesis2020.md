@@ -22,3 +22,8 @@ We developed a massively parallel three dimensional scheme for the simulation of
 
 ### relaxation of an prolate to a gourd
 <img src="../files/00Thesis/movies/Prolate3D.gif" alt="relaxation of an prolate to a gourd" width="250" height="250">
+
+
+
+### pinching of an oblate under the effect of spontaneous curvature
+<img src="../files/00Thesis/movies/OblatePinch.gif" alt="pinching of an oblate under the effect of spontaneous curvature" width="250" height="250">
