@@ -1,0 +1,121 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% !Mode:: "TeX:UTF-8"
+
+\documentclass{resume}
+\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts (./fonts/zh_CN-Adobe/)
+% \usepackage{NotoSansSC_external}
+% \usepackage{NotoSerifCJKsc_external}
+% \usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
+\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage{cite}
+
+\begin{document}
+\pagenumbering{gobble} % suppress displaying page number
+
+\name{张天奎}
+
+\basicInfo{
+  \email{zhang.tiankui@foxmail.com} \textperiodcentered\ 
+ % \phone{(+1) 5209894134} \textperiodcentered\ 
+ % \linkedin[tiankui]{https://www.linkedin.com/in/tiankuizhang/}
+ 	\homepage[https://tiankuizhang.github.io]{https://tiankuizhang.github.io/}
+ 	%\github[Github]{https://github.com/tiankuizhang}
+ 	}
+ 
+\section{\faGraduationCap\  教育背景}
+\datedsubsection{\textbf{亚利桑那大学}， 图森， 亚利桑那州， 美国}{2014年8月 -- 2020年7月}
+\textit{博士}\ 计算物理， GPA: 4.00/4.00
+\datedsubsection{\textbf{武汉大学}，武汉，湖北}{2010年9月 -- 2014年6月}
+\textit{学士}\ 物理学， GPA: 3.85/4.00
+\datedsubsection{\textbf{伦敦大学国王学院}，伦敦，英国}{2013年9 -- 2014年5月}
+\textit{国际交换生}\ 物理学
+
+\section{\faFlask\ 工作/研究经历}
+\datedsubsection{\textbf{广联达}，上海}{2020 年9月 -- 至今}
+\role{几何算法研发工程师}{针对上层业务需求开发几何算法}
+\begin{onehalfspacing}
+\begin{itemize}
+  \item 共面线隐藏，机电出图退让，曲面轮廓线
+\end{itemize}
+\end{onehalfspacing}
+
+
+\datedsubsection{\textbf{亚利桑那大学}，图森}{2014年8月 -- 2020年5月}
+\role{教学助理}{为本科生讲授电磁学实验}
+
+%\begin{itemize}
+%  \item 使用微分几何和变分法计算细胞膜的弹性力
+%  \item 为含有level set-defined的边界条件的Hamilton-Jacobi方程设计并实现了一个6阶精度的数值算法
+%  \item 用Matlab和CUDA C++设计并实现了模拟单相膜，双相膜，以及蛋白质-膜相互作用的并行数值算法
+%\end{itemize}
+
+
+\role{研究助理}{对细胞膜形态的理论研究和高性能数值模拟，导师 Charles Wolgemuth}
+\begin{onehalfspacing}
+
+\begin{itemize}
+  \item 使用微分几何和变分法计算细胞膜的弹性力
+  \item 为含有level set-defined的边界条件的Hamilton-Jacobi方程设计并实现了一个6阶精度的数值算法
+  \item 用Matlab和CUDA C++设计并实现了模拟单相膜，双相膜，以及蛋白质-膜相互作用的并行数值算法
+\end{itemize}
+\end{onehalfspacing}
+
+
+
+
+
+%\datedsubsection{\textbf{\LaTeX\ 简历模板}}{2015 年5月 -- 至今}
+%\role{\LaTeX, Python}{个人项目}
+%\begin{onehalfspacing}
+%优雅的 \LaTeX\ 简历模板, https://github.com/billryan/resume
+%\begin{itemize}
+%  \item 容易定制和扩展
+%  \item 完善的 Unicode 字体支持，使用 \XeLaTeX\ 编译
+%  \item 支持 FontAwesome 4.5.0
+%\end{itemize}
+%\end{onehalfspacing}
+
+% Reference Test
+%\datedsubsection{\textbf{Paper Title\cite{zaharia2012resilient}}}{May. 2015}
+%An xxx optimized for xxx\cite{verma2015large}
+%\begin{itemize}
+%  \item main contribution
+%\end{itemize}
+
+\section{\faCogs\ 技能}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.5ex]
+  \item 编程语言: C++，Matlab，CUDA
+  \item 数值模拟、PDE相关算法: 水平集，有限体积，稀疏矩阵求解
+  \item 计算几何：几何建模
+  \item 理论背景: 物理，微分几何
+\end{itemize}
+
+%\section{\faInfo\ 论文}
+\section{\faBook\ 论文}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.5ex]
+  \item \textbf{Tiankui Zhang} and Charles Wolgemuth. Sixth-order accurate schemes for reinitialization and extrapolation in the level set framework. \textit{Journal of Scientific Computing}, 83(2), 2020
+  \item \textbf{Tiankui Zhang} and Charles Wolgemuth. A general computational framework for the dynamics of single- and multi-phase vesicles and membranes. \textit{submitted to Journal of Computational Physics, under review}
+\end{itemize}
+
+%\section{\faThumbsUp\ 荣誉}
+%\datedline{图形平台图形之星， 广联达}{2020}
+%\datedline{College of Science Galileo Circle Scholarship，亚利桑那大学}{2019}
+%\datedline{弘毅学堂荣誉毕业生，武汉大学}{2014}
+%\datedline{留学基金委交换生奖学金，武汉大学}{2013}
+
+%\section{\faInfo\ 论文}
+% increase linespacing [parsep=0.5ex]
+%\begin{itemize}[parsep=0.5ex]
+%  \item 技术博客: http://blog.yours.me
+%  \item GitHub: https://github.com/username
+%  \item 语言: 英语 - 熟练(TOEFL xxx)
+%\end{itemize}
+
+%% Reference
+%\newpage
+%\bibliographystyle{IEEETran}
+%\bibliography{mycite}
+\end{document}
