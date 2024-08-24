@@ -15,5 +15,7 @@ redirect_from:
 
 # Work Experience
 
-- 2020-now: Right now, I am working as a software development engineer at  [Glodon](https://www.glodon.com/en/). My primary responsibility is to solve geometrical problems in an industrial environment with mathematical and computational skills.
+*   Sep 2020 - Jun 2023: Software development engineer at  [Glodon](https://www.glodon.com/en/). My primary responsibility is to solve geometrical problems in an industrial environment with mathematical and computational skills.
+
+*   Jun 2023 - Now : Senior Researcher at Shanghai Xindi. Here I am adding feature commands to our CAD software.
 
