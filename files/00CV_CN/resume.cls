@@ -19,9 +19,12 @@
 %\RequirePackage[usenames,dvipsnames]{xcolor}
 % loading fonts
 \RequirePackage{fontspec}
+% root dir of this template, relative to the compiling dir; empty when
+% compiling here, define \cvroot before \documentclass to compile elsewhere
+\providecommand{\cvroot}{}
 % Main document font
 \setmainfont[
-  Path = fonts/Main/ ,
+  Path = \cvroot fonts/Main/ ,
   Extension = .otf ,
   UprightFont = *-regular ,
   BoldFont = *-bold ,
