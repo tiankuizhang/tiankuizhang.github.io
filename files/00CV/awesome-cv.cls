@@ -94,7 +94,10 @@
 %                Configuration for directory locations
 %-------------------------------------------------------------------------------
 % Configure a directory location for fonts(default: 'fonts/')
-\newcommand*{\fontdir}[1][fonts/]{\def\@fontdir{#1}}
+% \cvroot: root dir of this template relative to the compiling dir; empty when
+% compiling here, define it before \documentclass to compile elsewhere
+\providecommand{\cvroot}{}
+\newcommand*{\fontdir}[1][\cvroot fonts/]{\def\@fontdir{#1}}
 \fontdir
 
 
