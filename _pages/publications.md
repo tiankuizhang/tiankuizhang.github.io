@@ -17,4 +17,4 @@ author_profile: true
 
 # PhD Thesis
 
-<br><b>[A Level Set Approach to Shape Dynamics of Veislces](https://tiankuizhang.github.io/publications/00TiankuiZhangThesis2020)</b><br>
+<br><b>[A Level Set Approach to Shape Dynamics of Vesicles](https://tiankuizhang.github.io/publications/00TiankuiZhangThesis2020)</b><br>
