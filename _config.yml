@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - files/00CV_CN/README.md # resume template's own readme, not a page of this site
 keep_files:
   - .git
   - .svn
