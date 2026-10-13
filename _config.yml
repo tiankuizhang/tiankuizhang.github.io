@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tiankui Zhang"
   avatar           : "profile.png"
-  bio              : "software engineer in the field of geometric and solid modelling"
-  location         : "ShangHai"
-  employer         : "software engineer, Glodon"
+  bio              : "Geometric kernel and CAD algorithm engineer"
+  location         : "Shanghai, China"
+  employer         : "Software Engineer, Poissonsoft"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "zhang.tiankui@foxmail.com"
