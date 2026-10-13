@@ -53,6 +53,20 @@
 \patchcmd{\@sectioncolor}{\color}{\mdseries\color}{}{}
 \makeatother
 
+% Narrower skillset column than the template's 0.9\textwidth, so that longer
+% skill types (e.g. "Geometric Modeling") fit without pushing past the margin
+\renewenvironment{cvskills}{%
+  \vspace{\acvSectionContentTopSkip}
+  \vspace{-2.0mm}
+  \begin{center}
+    \setlength\tabcolsep{1ex}
+    \setlength{\extrarowheight}{0pt}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} r L{\textwidth * \real{0.78}}}
+}{%
+    \end{tabular*}
+  \end{center}
+}
+
 %-------------------------------------------------------------------------------
 %	PERSONAL INFORMATION
 %	Comment any of the lines below if they are not required
@@ -60,7 +74,7 @@
 % Available options: circle|rectangle,edge/noedge,left/right
 %\photo[rectangle,edge,right]{profile}
 \name{Tiankui}{Zhang}
-\position{PhD in Computational Physics, University of Arizona, Tucson AZ, USA}
+\position{Geometric Kernel \& CAD Algorithm Engineer{\enskip\textperiodcentered\enskip}PhD in Physics}
 %\address{225 N Park Ave, Tucson AZ, USA, 85719}
 
 %\mobile{(520) 989-4134}

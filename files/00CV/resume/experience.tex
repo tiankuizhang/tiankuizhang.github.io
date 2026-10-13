@@ -1,56 +1,58 @@
 \cvsection{Experience}
 
   \cventry
-    {Software Development Engineer : Maintain and develop algorithms for geometric kernel } % Position
+    {Software Engineer, Geometric Kernel} % Position
     {Poissonsoft} % Institution
-    {Shang Hai, PRC} % Location
-    {Feb 2025 - Now} % Date(s)
+    {Shanghai, China} % Location
+    {Feb 2025 - Present} % Date(s)
     {
       \begin{cvitems} % Description(s) bullet points
-         \item {local operation : face taper, body taper}    
-         \item {boundary representation topology editing : redundant topology controlling}    
+        \item {\textbf{Procedural geometry performance}: optimized the evaluation of procedural intersection curves and rolling-ball blend surfaces, each evaluation of which requires iterative solving; profiled bottlenecks and improved solving strategy, initial guesses, derivative computation and reuse of intermediate results, without sacrificing accuracy or robustness.}
+        \item {\textbf{Local operations and topology editing}: maintained and developed B-rep modeling APIs for face taper, body taper, redundant topology removal and sewing, keeping geometry and topology consistent under degenerate cases and tolerances.}
       \end{cvitems}
-    }  
+    }
 
   \cventry
-    {Senior Researcher : Develop feature commands for CAD software} % Position
-    {ShangHai Xindi} % Institution
-    {Shang Hai, PRC} % Location
+    {Senior Researcher, CAD Features} % Position
+    {Xindi Digital} % Institution
+    {Shanghai, China} % Location
     {Jun 2023 - Jan 2025} % Date(s)
     {
       \begin{cvitems} % Description(s) bullet points
-         \item {offset curves : computing offset of connected curves}    
-         \item {bridge surface : generate geometric continuous b-spline surface between two existing surface}   
-         \item {surface fairing : optimize control points of b-spline surface to minimize energy}  
-         \item {fit curve : create b-spline curves with interpolation as well as approximation conditions}  
-         \item {boundary blend : create b-spline surface from surface boundary conditions}  
-         \item {draft offset : make offset of faces and create drafted side faces}  
+        \item {\textbf{Offset curve}: developed end to end, from UI to algorithm; offsets chains of planar curves of any type by distance or draft angle, handling local and global self-intersections, corner gaps and vanishing segments, and succeeds where the kernel's built-in offset fails.}
+        \item {\textbf{Curve fitting}: developed end to end; approximates curves with B-splines of a given degree and segment count under endpoint continuity constraints up to G2, formulated as a constrained quadratic program.}
+        \item {\textbf{Surface fairing}: developed end to end; recomputes B-spline control points to minimize second- and third-order derivative energy while preserving boundary continuity.}
+        \item {\textbf{Boundary blend}: a comprehensive surface-generation feature: lofting from curves in one direction, Coons and Gordon surfaces from two directions, with continuity constraints to adjacent surfaces.}
+        \item {\textbf{Bridge surface}: smooth transition surface between edges of two surfaces, with specified continuity, tangent magnitude and flow.}
+        \item {\textbf{Draft offset}: offsets a sketch-bounded region of a surface by a given distance, with side walls at a given draft angle.}
       \end{cvitems}
-    }  
-  
+    }
+
   \cventry
-    {Software Development Engineer : Develop algorithms to solve geometrical problems} % Position
+    {Geometric Algorithm Engineer} % Position
     {Glodon} % Institution
-    {Shang Hai, PRC} % Location
+    {Shanghai, China} % Location
     {Sep 2020 - Jun 2023} % Date(s)
     {
       \begin{cvitems} % Description(s) bullet points
-         \item {silhouette curves : create silhouette curves from face or mesh }    
-         \item {facet of boundary representation model : adaptive watertight mesh generation from boundary representation model for viewing as well as computation}  
+        \item {\textbf{Adaptive watertight tessellation}: rewrote B-rep tessellation for display and downstream computation; edges are discretized first and shared by adjacent faces to guarantee watertightness, and faces are adaptively refined in parameter space until the 3D error meets tolerance. Triangle count dropped substantially, on par with ACIS.}
+        \item {\textbf{Coplanar edge hiding}: splits edges where coplanar faces of two bodies overlap, so the renderer can hide the seam between joined components.}
+        \item {\textbf{MEP occlusion in 2D drawings}: computes the occluded portions of pipes and equipment from the 3D model and draws them broken or dashed per drafting conventions.}
+        \item {\textbf{Silhouette curves}: computes silhouette curves of surfaces for a given view direction.}
+        \item {\textbf{2D geometry comparison}: similarity measure between 2D shapes for AI applications under a large distance tolerance, based on each shape's region of influence.}
       \end{cvitems}
     }
-    
+
   \cventry
-    {Research Assitant and Teaching Assitant} % Position
+    {Research Assistant and Teaching Assistant} % Position
     {University of Arizona} % Institution
     {Tucson, AZ, USA} % Location
-    {Aug 2014 - Jul 2020} % Date(s)
+    {Aug 2014 - May 2020} % Date(s)
     {
       \begin{cvitems} % Description(s) bullet points
-         \item {Served as teaching assistant for various undergraduate physics and astronomy courses}
-         \item {Use differential geometry and variational principle to develop partial differntial equations governing dynamics of energy minimized elastic surface of Helfrich type}
-         \item {design and implement a sixth-degree accurate algorithm for Hamilton-Jacobi equation with level set defined boundary conditions}
-         \item {use Matlab and CUDA c++ to developed a three dimensional massively parallel numerical framework for the simulation of single phase and biphasic vesicles coupled with protein kinetics with professor Charles W. Wolgemuth. Speaking more mathematically, we solve the level set equation in 3 dimensional space coupled with diffusion-convection equations on a 2 dimensional mainfold.}
+        \item {\textbf{Sixth-order level set schemes}: designed sixth-order accurate schemes for reinitialization and extrapolation in the level set framework, building on WENO schemes for Hamilton--Jacobi equations (\textit{J. Sci. Comput.}, 2020).}
+        \item {\textbf{Membrane dynamics}: derived restoring forces from a generalized curvature energy using differential geometry and variational calculus, and built a stable level-set framework for large deformations of single- and multi-phase vesicles, including fission and protein--membrane interaction (\textit{J. Comput. Phys.}, 2022).}
+        \item {\textbf{GPU implementation}: implemented the 3D framework in MATLAB and CUDA C++, coupling the level set equation with diffusion--convection equations on the evolving surface.}
+        \item {\textbf{Teaching}: teaching assistant for undergraduate physics and astronomy courses.}
       \end{cvitems}
     }
-  
